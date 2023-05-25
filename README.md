@@ -1,13 +1,10 @@
-# <Your-Project-Title>
+# Portfolio Webpage HW >
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+The goal of this project was to create a portfolio webpage that had an intractive navbar that takes you to assigned sections. There is supposed to be an image of a recent photo or avatar. The portfolio section is supposed to have images and the first one is supposed to be the largest. The images are supposed to be clickable and take you to the deployed application. There should be a responsive layout that adapts to the viewport.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+-
 
 ## Table of Contents (Optional)
 
@@ -18,33 +15,27 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Credits](#credits)
 - [License](#license)
 
-## Installation
+## Steps Taken
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+- I only used Index.html and style.css as needed
+- Bootstrap and charset utf-8 utilized from source
+- images were not clickable from source provided so syntex was added at the end, first portfolio image was resized to be larger than the rest
+[
+](https://github.com/elixit/develop-hw/assets/63372291/b99382b6-c80f-420f-a0d0-e39a9fc6caf5)
 
-## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+Free code camp was used as a reference guide [
+](https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/)
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
+MIT
 ---
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+
 
 ## Badges
 
@@ -54,12 +45,5 @@ Badges aren't necessary, but they demonstrate street cred. Badges let other deve
 
 ## Features
 
-If your project has a lot of features, list them here.
+Webpage has interactive Navbar that takes you to assigned part of page. Webpage is resizable. Interactive images in portfolio section.
 
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
