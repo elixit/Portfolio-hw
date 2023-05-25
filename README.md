@@ -20,8 +20,9 @@ If your README is long, add a table of contents to make it easy for users to fin
 - I only used Index.html and style.css as needed
 - Bootstrap and charset utf-8 utilized from source
 - images were not clickable from source provided so syntex was added at the end, first portfolio image was resized to be larger than the rest
-[
-](https://github.com/elixit/develop-hw/assets/63372291/b99382b6-c80f-420f-a0d0-e39a9fc6caf5)
+
+
+https://github.com/elixit/develop-hw/assets/63372291/b99382b6-c80f-420f-a0d0-e39a9fc6caf5
 
 
 ## Credits
