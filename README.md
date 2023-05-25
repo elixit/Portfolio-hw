@@ -27,8 +27,8 @@ https://github.com/elixit/develop-hw/assets/63372291/b99382b6-c80f-420f-a0d0-e39
 
 ## Credits
 
-Free code camp was used as a reference guide [
-](https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/)
+Free code camp was used as a reference guide 
+https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/
 
 
 ## License
