@@ -6,17 +6,9 @@ The goal of this project was to create a portfolio webpage that had an intractiv
 
 -
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 
 ## Steps Taken
-
+- code from source only used to meet minimum webpage requirements
 - I only used Index.html and style.css as needed
 - Bootstrap and charset utf-8 utilized from source
 - images were not clickable from source provided so syntex was added at the end, first portfolio image was resized to be larger than the rest
